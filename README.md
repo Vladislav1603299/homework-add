@@ -82,7 +82,7 @@
                 </li>
                 <li class="offers__item offers__item--man">
                     <h3>30% off</h3>
-                    <p>for women</p>
+                    <p>for womens</p>
                 </li>
                 <li class="offers__item offers__item--kds">
                     <h3>30% off</h3>
